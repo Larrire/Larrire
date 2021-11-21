@@ -1,4 +1,4 @@
-### Olá, meu nome é Larrire 👨‍💻
+### Olá, meu nome é Larrire
 - 🔭 Atualmente estou trabalhando como Fullstack Developer
 - 🌱 Buscando cada vez mais me aperfeiçoar nas tecnologias  ...
 - 📫 How to reach me: ...
@@ -11,6 +11,18 @@
 
 ##
   
+### Tecnologias que conheço
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ - 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+ - 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+
 
   
 <!--
