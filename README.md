@@ -16,12 +16,12 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
-  <img height="30" width="40" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
+  <img height="30" width="15" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
   
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   
-  <img height="30" width="40" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
+  <img height="30" width="15" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
   
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
