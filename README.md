@@ -19,7 +19,7 @@
   
   <img height="30" width="15" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
   
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="30" width="40" src="https://github.com/Larrire/Larrire/blob/main/PHP-logo.svg.png" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   
   <img height="30" width="15" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
@@ -32,7 +32,7 @@
   
 <!--
 **Larrire/Larrire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/Larrire/Larrire/blob/main/spacer.png
+https://github.com/Larrire/Larrire/blob/main/PHP-logo.svg.png
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
