@@ -1,5 +1,5 @@
 ### Olá, meu nome é Larrire
-- 🔭 Atualmente estou trabalhando como Fullstack Developer
+- 🔭 Atualmente estou trabalhando como estagiário de desenvolvimento fullstack na <a href="http://www.portalsiabi.com.br/site/index.php/a-empresa/page">WJ Informática</a> e na <a href="https://www.instagram.com/autoforcebr/">Autoforce</a>
 - 🌱 Buscando cada vez mais me aperfeiçoar nas tecnologias  ...
 - 📫 How to reach me: ...
 
