@@ -19,7 +19,7 @@
   
   <img height="30" width="15" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
   
-  <img height="30" width="40" src="https://github.com/Larrire/Larrire/blob/main/PHP-logo.svg.png" />
+  <img height="30" width="40" src="https://github.com/Larrire/Larrire/blob/main/logo-php-svg.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   
   <img height="30" width="15" src="https://github.com/Larrire/Larrire/blob/main/spacer.png" />
