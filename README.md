@@ -1,11 +1,11 @@
-### Hi there 👋
-- 🔭 Atualmente trabalhando como Fullstack Developer
-- 🌱 Estudando  ...
+### Olá, meu nome é Larrire 👋
+- 🔭 Atualmente estou trabalhando como Fullstack Developer
+- 🌱 Buscando cada vez mais me aperfeiçoar nas tecnologias  ...
 - 📫 How to reach me: ...
 
 <div align="center">
   <a href="https://github.com/larrire">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=#1E90FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=1E90FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrire&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
