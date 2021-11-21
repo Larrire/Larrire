@@ -1,7 +1,7 @@
 ### Olá, meu nome é Larrire
 - 🔭 Atualmente estou trabalhando como estagiário de desenvolvimento fullstack na <a target="blank" href="http://www.portalsiabi.com.br/site/index.php/a-empresa/page">WJ Informática</a> e na <a target="blank" href="https://www.instagram.com/autoforcebr/">Autoforce</a>
 - 🎯 Estudando React, Ruby on Rails e um pouquinho de Laravel 👀
-- <img height="20" width="20" src="https://pbs.twimg.com/profile_images/1552081787/Untitled-1_400x400.png"> Formado em informática para internet pelo IFRN
+- <img height="17" width="17" style="padding: 0 2px;" src="https://pbs.twimg.com/profile_images/1552081787/Untitled-1_400x400.png"> Formado em informática para internet pelo IFRN
 
 <div align="center">
   <a href="https://github.com/larrire">
