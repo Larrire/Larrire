@@ -1,6 +1,6 @@
 ### Olá, meu nome é Larrire
 - 🔭 Atualmente estou trabalhando como estagiário de desenvolvimento fullstack na <a target="blank" href="http://www.portalsiabi.com.br/site/index.php/a-empresa/page">WJ Informática</a> e na <a target="blank" href="https://www.instagram.com/autoforcebr/">Autoforce</a>
-- 🎯 Estudando Ruby on Rails, React e um pouquinho de Laravel 👀
+- 🎯 Estudando React, Ruby on Rails e um pouquinho de Laravel 👀
 
 <div align="center">
   <a href="https://github.com/larrire">
@@ -15,18 +15,13 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  ▪
+  <span style="height: 30px;">▪</span>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  ▪
+  <span style="height: 30px;">▪</span>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-   .
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />  
 </div>
 
   
