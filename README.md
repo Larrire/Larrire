@@ -1,4 +1,4 @@
-### Olá, meu nome é Larrire 👋
+### Olá, meu nome é Larrire 👨‍💻
 - 🔭 Atualmente estou trabalhando como Fullstack Developer
 - 🌱 Buscando cada vez mais me aperfeiçoar nas tecnologias  ...
 - 📫 How to reach me: ...
@@ -9,6 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrire&layout=compact&langs_count=7&theme=dracula&title_color=00BFFF"/>
 </div>
 
+##
+  
+
+  
 <!--
 **Larrire/Larrire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
