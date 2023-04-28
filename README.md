@@ -1,6 +1,6 @@
 ### Olá, meu nome é Larrire
-- 🔭 Fullstack developer trainee na <a target="blank" href="https://www.instagram.com/autoforcebr/">Autoforce</a>
-- 🎯 Estudando React e Ruby on Rails
+- 🔭 Fullstack developer na <a target="blank" href="https://www.instagram.com/autoforcebr/">Autoforce</a>
+- 🎯 React e Ruby on Rails
 - <img height="16" width="20" style="padding: 0 2px;" src="https://github.com/Larrire/Larrire/blob/main/image2vector.svg"> Formado em informática para internet pelo IFRN
 
 <!-- <div align="center">
